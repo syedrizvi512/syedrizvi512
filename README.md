@@ -18,5 +18,3 @@ Enhancing my project management skills
 📚 Reading books on business strategy and personal development
 📫 Let’s Connect!
 I'm always looking for exciting projects and collaborations. Feel free to explore my repositories or reach out through my email: syedaunn512@gmail.com 
-syedrizvi512/syedrizvi512 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
